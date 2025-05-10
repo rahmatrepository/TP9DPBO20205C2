@@ -38,4 +38,4 @@ Aplikasi ini memisahkan logika bisnis, tampilan, dan data dengan pola MVP:
 - Hapus data mahasiswa.
 
 ## Dokum bang
-https://github.com/user-attachments/assets/f142c3b9-27d0-4fa9-843d-6513175dd536
+![alt text](<screen record/Mahasiswa and 8 more pages - Profile 1 - Microsoft_ Edge 2025-05-10 14-54-25 (1).gif>)
